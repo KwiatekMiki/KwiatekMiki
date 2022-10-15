@@ -1,5 +1,5 @@
 # KwiatekMiki
-- 💾 Working on passnpin generator
+- 💾 Working on [passnpin generator](https://github.com/KwiatekMiki/passnpingenerator)
 - 🐞 Reporting bugs in skEditor+
 ## My nicks
 - ⛏️ Minecraft: AksolotlDev/KwiatekMiki_
