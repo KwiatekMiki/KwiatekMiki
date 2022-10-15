@@ -9,6 +9,11 @@
 - 🐦 Twitter: @SubKwiatekMiki @wentylatorlclc
 - ❌ Reddit: u/SubujKwiatekMiki
 - 🔴 YouTube: KwiatekMiki
+## My sites:
+- https://notsuswebsite.tk/
+- https://kwiatekmiki.pl/
+- https://aksolotl.tk/
+- https://exposedsteve.tk/
 ## Donate me!
 - 💲 PayPal: paypal.me/KwiatekMiki
 - 💲 Patreon: patreon.com/KwiatekMiki
