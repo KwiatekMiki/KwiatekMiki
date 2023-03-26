@@ -1,14 +1,21 @@
 # KwiatekMiki
-- 💾 Working on [passnpin generator](https://github.com/KwiatekMiki/passnpingenerator)
-- 🐞 Reporting bugs in skEditor+
+- 💾 Working on my Minecraft server
+- 👀 Trying to record videos on YouTube™️
 ## My nicks
-- ⛏️ Minecraft: AksolotlDev/KwiatekMiki_
+- ⛏️ Minecraft: KwiatekMikiYT
 - 👤 Roblox: iKwiatekMiki
-- 🇱🇴🇱 League of Legends: aksol
+- 🇱🇴🇱 League of Legends (not playing): aksol
 ## My social medias:
 - 🐦 Twitter: @SubKwiatekMiki @wentylatorlclc
 - ❌ Reddit: u/SubujKwiatekMiki
-- 🔴 YouTube: KwiatekMiki
+- 🔴 My youTube channels:
+-     KwiatekMiki
+-     Losowy (Random) KwiatekMiki
+-     KwiatekMiki English
+-     iKwiatekMiki
+-     KwiatekMiki GD
+-     KwiatekMiki
+-     and more... 
 ## My sites:
 - https://notsuswebsite.tk/
 - https://kwiatekmiki.pl/
