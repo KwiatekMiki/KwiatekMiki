@@ -9,13 +9,13 @@
 - 🐦 Twitter: @SubKwiatekMiki @wentylatorlclc
 - ❌ Reddit: u/SubujKwiatekMiki
 - 🔴 My youTube channels:
--     KwiatekMiki
--     Losowy (Random) KwiatekMiki
--     KwiatekMiki English
--     iKwiatekMiki
--     KwiatekMiki GD
--     KwiatekMiki
--     and more... 
+  - KwiatekMiki
+  - Losowy (Random) KwiatekMiki
+  - KwiatekMiki English
+  - iKwiatekMiki
+  - KwiatekMiki GD
+  - KwiatekMiki
+  - and more... 
 ## My sites:
 - https://notsuswebsite.tk/
 - https://kwiatekmiki.pl/
