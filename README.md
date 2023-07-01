@@ -20,11 +20,11 @@
     - [r/LcLcYT](https://reddit.com/r/LcLcYT) - Unofficial subreddit for LcLc
     - [r/HelpEnderman](https://reddit.com/r/HelpEnderman) [BANNED FOR NO REASON]
 - 🐦 Twitter:
-  - [@KwiatekMikiYT](https://twitter.com/KwiatekMikiYT] - Polish Account
-  - [@KwiatekMikiEN](https://twitter.com/KwiatekMikiEN] - English Account [FORGOT PASSWORD *lol*]
-  - [@HelpEnderman](https://twitter.com/HelpEnderman]
-  - [@KwiatekMikiDev](https://twitter.com/KwiatekMikiDev] [BLANK, UNUSED]
-  - [@wentylatorlclc](https://twitter.com/wentylatorlclc] [OLD, UNUSED]
+  - [@KwiatekMikiYT](https://twitter.com/KwiatekMikiYT) - Polish Account
+  - [@KwiatekMikiEN](https://twitter.com/KwiatekMikiEN) - English Account [FORGOT PASSWORD *lol*]
+  - [@HelpEnderman](https://twitter.com/HelpEnderman)
+  - [@KwiatekMikiDev](https://twitter.com/KwiatekMikiDev) [BLANK, UNUSED]
+  - [@wentylatorlclc](https://twitter.com/wentylatorlclc) [OLD, UNUSED]
 - 🔴 My YouTube channels: <br>
   - [KwiatekMiki](https://youtube.com/@KwiatekMiki)
   - [Losowy (Random) KwiatekMiki](https://youtube.com/@LosowyKwiatekMiki)
