@@ -45,7 +45,7 @@
 - 💲 Patreon: [patreon.com/KwiatekMiki](https://patreon.com/KwiatekMiki)
 
 ## Contributor of:
-[![SkEditorPlus](https://raw.githubusercontent.com/GitJestGit/imgs/contributorimgs/SkEditorPlus.png | width=100px)](https://github.com/NotroDev/SkEditorPlus)
+[![SkEditorPlus](https://raw.githubusercontent.com/GitJestGit/imgs/contributorimgs/SkEditorPlus.png | width=100)](https://github.com/NotroDev/SkEditorPlus)
 
 ## Stats
 ![Profile ](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KwiatekMiki&theme=default)
