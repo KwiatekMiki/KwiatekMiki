@@ -8,7 +8,7 @@
 - 👤 Roblox: iKwiatekMiki
 <!-- - 🇱🇴🇱 League of Legends (not playing): aksol -->
 
-## My socials:
+## My socials
 - 🍊 Reddit:
   - Accounts: 
     - [u/SubujKwiatekMiki](https://reddit.com/user/SubujKwiatekMiki)
@@ -36,15 +36,18 @@
   <!-- - iKwiatekMiki -->
   - and more...
 
-## My websites:
+## My websites
 - [kwiatekmiki.pl](https://kwiatekmiki.pl) [WIP]
 - ??? [SOON™️]
 
-## Donate me!
+## Donate me
 - 💲 PayPal: [*click*](https://www.paypal.com/donate/?hosted_button_id=CLV359ZKYMZNJ)
 - 💲 Patreon: [patreon.com/KwiatekMiki](https://patreon.com/KwiatekMiki)
 
-## Stats:
+## Contributor of:
+[![SkEditorPlus](https://raw.githubusercontent.com/GitJestGit/imgs/contributorimgs/SkEditorPlus.png)](https://github.com/NotroDev/SkEditorPlus)
+
+## Stats
 ![Profile ](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KwiatekMiki&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KwiatekMiki&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KwiatekMiki&theme=default)
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KwiatekMiki&theme=default) -->
