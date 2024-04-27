@@ -1,0 +1,2 @@
+- 💲 PayPal: [*click*](https://www.paypal.com/donate/?hosted_button_id=CLV359ZKYMZNJ)
+- 💲 Patreon: [patreon.com/KwiatekMiki](https://patreon.com/KwiatekMiki)
