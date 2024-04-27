@@ -1,5 +1,5 @@
 # KwiatekMiki
-<table border="0" align="center">
+<table>
 	<tr>
 		<a href="./SOCIALS.md">
 			<img src="./files/socials.png" width="225px">
@@ -12,16 +12,12 @@
 	</tr>
 </table>
 
-<table border="0" align="center">
+<table>
 	<tr>
-		<a href="./SOCIALS.md">
-			<img height="125px" align="center" src="https://github-readme-stats.vercel.app/api?username=kwiatekmiki&theme=nightowl" />
-		</a>
+		<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=kwiatekmiki&theme=nightowl" />
 	</tr>
 	<tr>
-		<a href="./DONATE.md">
-			<img wdith="120px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwiatekmiki&theme=nightowl" />
-		</a>
+		<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwiatekmiki&theme=nightowl" />
 	</tr>
 </table>
 

@@ -11,7 +11,7 @@
 - [Squiddo Clips](https://youtube.com/@SquiddoClips)
 - [BTD6 Experiments](https://www.youtube.com/@BTD6Experiments) - abandoned, I might come back to this channel
 
-## Reddit <img src="./files/reddit.svg" width="16" height="16" style="filter: invert(100%)" />
+## Reddit <img src="./files/reddit.svg" width="16" height="16" style="filter: invert(33%) sepia(60%) saturate(3846%) hue-rotate(1deg) brightness(101%) contrast(107%);" />
 ### Accounts
 - [u/SubujKwiatekMiki](https://reddit.com/user/SubujKwiatekMiki)
     - [u/AltKwiatekMiki](https://reddit.com/user/AltKwiatekMiki)
