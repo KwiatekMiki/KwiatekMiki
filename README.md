@@ -16,9 +16,9 @@
 	<tr>
 		<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=kwiatekmiki&theme=nightowl" />
 	</tr>
-	<tr>
+<!-- 	<tr>
 		<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwiatekmiki&theme=nightowl" />
-	</tr>
+	</tr> -->
 </table>
 
 <!-- ## Contributor of:
